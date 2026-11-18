@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/strivo/_next/static/chunks/1ua2kfq9s-me6.js"
+4:"/strivo/_next/static/chunks/0m-_hm8zqz_83.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"container-x grid min-h-[70svh] content-center gap-6 py-24","children":[["$","p",null,{"className":"font-display text-accent-text text-[clamp(6rem,30vw,16rem)] leading-none font-extrabold tracking-[-0.06em]","children":"404"}],["$","h1",null,{"className":"text-(length:--text-h2) font-extrabold","children":"Wrong turn on the track."}],["$","p",null,{"className":"measure text-text-2 text-lg","children":"This page skipped leg day — or never existed. Head back and pick up where you left off."}],["$","div",null,{"children":["$","$Lb",null,{"className":"group relative inline-flex min-h-11 select-none items-center justify-center gap-2 rounded-full font-medium transition-[background-color,color,box-shadow,transform,filter] duration-(--duration-ui) ease-(--ease-out-expo) active:scale-[0.97] disabled:pointer-events-none disabled:opacity-45 aria-disabled:pointer-events-none aria-disabled:opacity-45 bg-primary text-on-primary hover:brightness-110 hover:shadow-[0_8px_28px_-8px_var(--glow)] min-h-13 px-7 text-base","href":"/","children":"Back to home"}]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#f6f4ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0b0d0c","media":"(prefers-color-scheme: dark)"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found · Strivo"}],["$","meta","1",{"name":"description","content":"Strivo is an AI fitness coach for iOS and Android: plans that adapt daily, real-time form feedback from your camera, and progress you can see."}],["$","meta","2",{"name":"application-name","content":"Strivo"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","meta","4",{"name":"format-detection","content":"telephone=no"}],["$","link","5",{"rel":"icon","href":"/strivo/icon.svg?icon.3thxblw8wr57y.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","6",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"V8xE_z1022hfJXzjwn4hn"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"
